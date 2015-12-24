@@ -1,0 +1,11 @@
+*)Panes
+cmd-k arrow         split any editor pane horizontally or vertically
+cmd-k cmd-arrow     move focus between panes
+cmd-w               close pane
+
+*)Grammar
+ctrl-shift-L        choose syntax
+cmd-:               Spelling
+
+*)Markdown
+ctrl-shift-M        preview

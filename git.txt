@@ -1,0 +1,13 @@
+*)Git
+cmd-alt-Z                   checks out the HEAD of file
+cmd-shift-B (on TreeView)   pops up a list of all the untracked and modified files in the project
+
+git config --global core.editor "atom --wait"    Git commit message highlighting
+alt-g down, alt-g up        allow you to move the cursor to the next/previous diff hunk
+
+*)GitHub
+alt-G O              Open file on GitHub
+alt-G B              Open blame of file on GitHub
+alt-G H              Open history of file on GitHub
+alt-G C              Copy the URL of the current file on GitHub
+alt-G R              Branch compare on GitHub

@@ -1,0 +1,10 @@
+*)Snippets
+alt-shift-S           list of all snippets
+Note: type snippet text and press Tab
+
+*)Autocomplete
+ctrl-space            show autocomplete
+
+*)Folding
+alt-cmd-[, alt-cmd-]              fold and unfold block of code
+alt-cmd-shift-{, alt-cmd-shift-}  fold and unfold everything

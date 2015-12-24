@@ -1,0 +1,53 @@
+*)Navigation
+alt-left                Move to beginning of word
+alt-right               Move to end of word
+cmd-right, ctrl-E       Move to end of line
+cmd-left, ctrl-A        Move to first character of line
+cmd-up                  Move to top of file
+cmd-down                Move to bottom of file
+
+*)Jumping
+ctrl-alt-down           jump directly to the declaration of the method or function under the cursor
+
+*)Selection
+alt-shift-left         Select to beginning of word
+alt-shift-right        Select to end of word
+cmd-shift-right        Select to end of line
+cmd-shift-left         Select to first character of line
+cmd-shift-up           Select to top of file
+cmd-shift-down         Select to bottom of file
+
+cmd-A                  Select the entire buffer
+cmd-L                  Select entire
+ctrl-shift-W           Select current word
+
+*)Moving
+ctrl-T                       Transpose characters.
+cmd-J                        Join the next line to the end of the current line
+ctrl-cmd-up, ctrl-cmd-down   Move the current line up or down
+cmd-shift-D                  Duplicate the current line
+cmd-K + cmd-L                Lower case the current word
+cmd-K + cmd-U                Upper case the current word
+
+*)Deletion
+ctrl-shift-K                 Delete current line
+cmd-fn-backspace             Delete to end of line (cmd-fn-backspace on mac)
+ctrl-K                       Cut to end of line
+cmd-backspace                Delete to beginning of line
+alt-backspace, alt-H         Delete to beginning of word
+alt-delete, alt-D            Delete to end of word
+
+*)Multiple cursors and selections
+cmd-click                       Add new cursor
+cmd-shift-L                     Convert a multi-line selection into multiple cursors
+ctrl-shift-up, ctrl-shift-down  Add another cursor above/below the current cursor
+cmd-D                           Select the next word in the document that is the same as the currently selected word
+ctrl-cmd-G                      Select all words in a document that are the same as the one under the current cursor(s)
+
+*)Brackets
+ctrl-m                         Jump to the bracket matching the one adjacent to the cursor.
+ctrl-cmd-m                     Select all the text inside the current brackets
+alt-cmd-.                      Close the current XML/HTML tag
+
+*)Encoding
+ctrl-shift-U                   Toggle menu to change file encoding

@@ -1,0 +1,8 @@
+*) Files
+cmd-T, cmd-P           fuzzy file search in project
+cmd-B                  file search across opened files
+cmd-shift-B            file search across new or modified files in git repo
+
+*) Find and Replace text
+cmd-F                  Search within a buffer
+cmd-shift-f            Search the entire project
