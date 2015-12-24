@@ -1,0 +1,18 @@
+*)iex
+cmd + alt + l		      Opens new IEx in new tab pane
+cmd + alt + l down		Opens new IEx tab pane in up split
+cmd + alt + l right		Opens new IEx tab pane in right split
+cmd + alt + l down		Opens new IEx tab pane in down split
+cmd + alt + l left		Opens new IEx tab pane in left split
+cmd + alt + e		      Stops the application, compiles any changed files with mix, then restarts the application.
+cmd + alt + a		      Run all the test in the project
+cmd + alt + x		      Run all the tests in the active editor
+cmd + alt + j		      Run the test in which the cursor lies
+cmd + alt + h		      Print the docstring for the function or module under the cursor
+cmd + alt + o		      Jump to the definition of the function or module under the cursor
+cmd + alt + b		      Pipe the currently selected text to the REPL and execute it
+cmd + alt + p		      Pretty print the last evaluated expression
+
+*)elixir-docs
+ctrl-alt-o            toogle
+ctrl-i                find docs

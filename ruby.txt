@@ -1,0 +1,18 @@
+*)ruby-turnip
+ctrl-alt-j       jump from feature to steps
+
+*)ruby-test
+cmd-ctrl-y         Run all the test files
+cmd-ctrl-t         Run the current test file
+cmd-ctrl-r         Run the test at the current line in test file
+cmd-ctrl-e         Re-run the previous test (doesn't need to have the test file active)
+cmd-ctrl-x         Show/hide the test panel
+ctrl-cmd-c         Cancel tests execution
+
+*)ruby-block-converter
+alt-[              { } => do-end
+alt-]              do-end => { }
+
+*)go-to-view
+ctrl-cmd-v	      jump
+ctrl-cmd-s	      spec
