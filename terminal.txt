@@ -1,0 +1,17 @@
+ctrl + alt + t	    Opens new terminal tab pane
+ctrl + alt + up	    Opens new terminal tab pane in up split
+ctrl + alt + right	Opens new terminal tab pane in right split
+ctrl + alt + down	  Opens new terminal tab pane in down split
+ctrl + alt + left	  Opens new terminal tab pane in left split
+ctrl + k, t, t	    Opens new terminal tab pane
+ctrl + k, t, up	    Opens new terminal tab pane in up split
+ctrl + k, t, right	Opens new terminal tab pane in right split
+ctrl + k, t, down	  Opens new terminal tab pane in down split
+ctrl + k, t, left	  Opens new terminal tab pane in left split
+cmd + k, t, t	      Opens new terminal tab pane
+cmd + k, t, up	    Opens new terminal tab pane in up split
+cmd + k, t, right	  Opens new terminal tab pane in right split
+cmd + k, t, down	  Opens new terminal tab pane in down split
+cmd + k, t, left	  Opens new terminal tab pane in left split
+ctrl + insert	      Copy text (if ctrl + c is not working)
+shift + insert	    Paste text (if ctrl + v is not working)
